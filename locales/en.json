@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "title": "Project",
+    "description": "Description"
+  },
+  "navigation": {
+    "homeLink": "Home",
+    "servicesLink": "Services",
+    "casesLink": "Cases",
+    "contactBtn": "Contact"
+  },
+  "richText1": {
+    "title": "Section Title",
+    "content": "\nNote that if you get an error like \"WARNING: No output specified for docker-container driver. Build result will only remain in the build cache. To push result image into registry use --push or to load image into docker use --load\" when running this command, you can solve that by immediately pushing the image to Dockerhub: \"docker buildx build --push --platform linux/amd64,linux/arm64 -t <tag> .\"",
+    "btn1": "View Customers",
+    "btn2": "About Us"
+  },
+  "richText2": {
+    "title": "Section Title",
+    "content": "\nNote that if you get an error like \"WARNING: No output specified for docker-container driver. Build result will only remain in the build cache. To push result image into registry use --push or to load image into docker use --load\" when running this command, you can solve that by immediately pushing the image to Dockerhub: \"docker buildx build --push --platform linux/amd64,linux/arm64 -t <tag> .\"",
+    "btn1": "Start Your Project",
+    "btn2": "some random text"
+  },
+  "footer": {
+    "address": {
+      "building": "Building",
+      "city": "City",
+      "street": "Street"
+    },
+    "blog": "Blog",
+    "company": "Company",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "getStarted": "Get Started",
+    "imprint": "Imprint",
+    "learnMore": "Learn More",
+    "phone": "Phone",
+    "privacy": "Privacy",
+    "rights1": "Rights 1",
+    "rights2": "Rights 2",
+    "rights3": "Rights 3",
+    "schedule": "Schedule",
+    "team": "Team"
+  }
+}
